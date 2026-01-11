@@ -1,5 +1,5 @@
 # profanity_filter
-
+**使用了C++14及以上版本才有的特性（std::make_unique），并且还使用了C++17的结构化绑定**
 ## 功能说明
 这个C++模板实现了四种脏话屏蔽方法：
 - SimpleReplacementFilter（简单替换法）：
